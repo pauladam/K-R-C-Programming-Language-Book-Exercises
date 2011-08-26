@@ -68,7 +68,7 @@ Exercise 1-14
 Write a program to print a histogram of the frequencies of
 different characters in its input.
 
-Exercise 1
+Exercise 1-15
 ================================================================
 5. Rewrite the temperature conversion program of Section 1.2 to use
 a function for conversion.
@@ -533,4 +533,3 @@ Exercise 8-8
 Write a routine bfree(p,n) that will free any arbitrary block p
 of n characters into the free list maintained by malloc and free. By using
 bfree, a user can add a static or external array to the free list at any time.
-
