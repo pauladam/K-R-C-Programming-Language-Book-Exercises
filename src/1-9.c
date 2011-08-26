@@ -13,7 +13,6 @@ main(){
   while((c = getchar()) != EOF){
 
     if(c == '\t'){
-      c = '\\t';
       putchar('\\');
       putchar('t');
     }else if(c == '\b'){
