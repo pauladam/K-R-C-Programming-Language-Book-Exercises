@@ -1,4 +1,4 @@
-Exercises from K&R's 'The C Programming Language'
+Exercises from K&R's The C Programming Language
 =================================================
 
 See exercise_list for a summary of all exercises
