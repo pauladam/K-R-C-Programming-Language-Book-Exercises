@@ -1,1 +1,3 @@
-Copy exercise summaries into respective exercise files
+* Copy exercise summaries into respective exercise files
+* Zero pad source file names so they sort properly 
+* Generate docco docs
